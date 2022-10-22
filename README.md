@@ -35,6 +35,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
+### Desafios Extras
+
+[ ] Adicionar outros Tipos de Cartões.
+  * Conferir no projeto do Figma. Tem outros exemplos lá.
+  * Logos dos Cartões em worldvectorlogo.com/
+  * Conferir Regex de outros cartões.
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
