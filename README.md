@@ -41,10 +41,14 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
   * Conferir no projeto do Figma. Tem outros exemplos lá.
   * Logos dos Cartões em worldvectorlogo.com/
   * Conferir Regex de outros cartões.
+  
+## Projeto
+ Acesse clicando neste link: https://explorer-lab-01-snowy-phi.vercel.app/
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 
 ## :memo: Licença
 
